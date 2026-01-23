@@ -1,2 +1,2 @@
-# 💫 MichaelAIO
+# MichaelAIO
 
